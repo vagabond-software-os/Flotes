@@ -12,13 +12,14 @@ Flotes transforms Markdown notes intro flash cards, mind maps, summaries, and wi
 - **Hosting**: Vercel
 
 ## Resources
-- **Blog**: https://blog.flotes.app
-- **Docs**: https://docs.flotes.app/getting-started/intro
-- **Pricing**: https://flotes.app/pricing
-- **Study Timer**: https://timer.flotes.app
-- **Contact**: https://blog.flotes.app/about
-- **TOS & Privacy**: https://docs.flotes.app/about/tos/
-- **Discord**: https://discord.gg/jrXt4Avd
+- **[Blog](https://blog.flotes.app)**
+- **[Docs](https://docs.flotes.app/getting-started/intro)**
+- **[Pricing](https://flotes.app/pricing)**
+- **[Study Timer](https://timer.flotes.app)**
+- **[Contact](https://blog.flotes.app/about)**
+- **[TOS & Privacy](https://docs.flotes.app/about/tos/)**
+- **[Discord](https://discord.gg/EpwjUvuqbB)**
+
 
 > [!NOTE]  
 > This project is not currently open source.
